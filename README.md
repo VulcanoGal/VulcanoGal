@@ -2,7 +2,7 @@
 
 Un estudiante apasionado de la informática interesado especialmente en la Ciberseguridad.
     
-- 👩‍💻 Actualmente he terminado de estudiar [Ciberseguridad en entornos de las Tecnologías de la Información]
+- 👩‍💻 He terminado de estudiar [Ciberseguridad en entornos de las Tecnologías de la Información]
 - 🧠 Actualmente intentando sacarme la certificación [CySA+] por mi cuenta.
 - 📝 Suelo hacer proyectos personales cortos para aprender lenguajes, o por pura curiosidad/necesidad.
 - 📫 Siempre puedes contactarme a mi correo [personal](mailto:martinrodriguezsalgueiro@gmail.com)
