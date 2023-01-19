@@ -1,7 +1,7 @@
 ## <center>🚀 About Me</center>
-
-<center>Buenas a todos, bienvenidos a mi perfil.</center>  
-
+  
+<center>Buenas a todos, bienvenidos a mi perfil.</center>
+  
 - 👩‍💻 Ahora mismo estoy trabajando para Indra como Infraestructure Engineer.
 - 🧠 Actualmente intentando aprender plataformas IaC como Ansible y Terraform.
 - 📝 Suelo hacer proyectos personales, jugar con mi servidor casero o ponerme a prueba en plataformas online como HackTheBox o TryHackMe.
