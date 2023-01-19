@@ -1,23 +1,20 @@
 ## <center>🚀 About Me</center>
 
-Un estudiante apasionado de la informática interesado especialmente en la Ciberseguridad.
-    
-- 👩‍💻 He terminado de estudiar [Ciberseguridad en entornos de las Tecnologías de la Información]
-- 🧠 Actualmente intentando sacarme la certificación [CySA+] por mi cuenta.
-- 📝 Suelo hacer proyectos personales cortos para aprender lenguajes, o por pura curiosidad/necesidad.
+<center>Buenas a todos, bienvenidos a mi perfil.</center>  
+
+- 👩‍💻 Ahora mismo estoy trabajando para Indra como Infraestructure Engineer.
+- 🧠 Actualmente intentando aprender plataformas IaC como Ansible y Terraform.
+- 📝 Suelo hacer proyectos personales, jugar con mi servidor casero o ponerme a prueba en plataformas online como HackTheBox o TryHackMe.
 - 📫 Siempre puedes contactarme a mi correo [personal](mailto:martinrodriguezsalgueiro@gmail.com)
 
 
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=VulcanoGal" alt="VulcanoGal" />
+<center><a href="https://github.com/ryo-ma/github-profile-trophy"></center>
+<center><img src="https://github-profile-trophy.vercel.app/?username=VulcanoGal" alt="VulcanoGal" /></center>
 </a>
 </p>
 <p>
 <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VulcanoGal&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="VulcanoGal stats card" /></p>
 <p>&nbsp;--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VulcanoGal&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="VulcanoGal stats card" /></p>
-
-[Ciberseguridad en entornos de las Tecnologías de la Información]:https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/ciberseguridad-entornos-tecnologias-informacion.html
-[CySA+]:https://www.comptia.org/es/certificaciones/cybersecurity-analyst
+<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=VulcanoGal&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="VulcanoGal stats card" /></p></center>
