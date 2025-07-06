@@ -1,20 +1,12 @@
-## <p align="center">🚀 About Me</p>
+<h1 align="center">Hello, my name is Martín.</h1>
 
-#### <p align="center">Buenas a todos, bienvenidos a mi perfil.</p>
+<h2>About Me</h2>
+I’m Martín, and this is a brief introduction about myself:
 
-Esta es una breve carta de presentación sobre mi.
+- 👨‍💻 I’m currently working on integrating Artificial Intelligence into Chatbots.
 
-- 👩‍💻 Ahora mismo estoy trabajando en Indra para Inditex como Infraestructure Engineer.
-- 🧠 Actualmente intentando aprender plataformas IaC como Ansible y Terraform, al mismo tiempo que mejoro mis conociminentos en Python.
-- 📝 Suelo hacer proyectos personales, jugar con mi servidor casero o ponerme a prueba en plataformas online como HackTheBox o TryHackMe.
-- 📫 Siempre puedes contactarme a mi correo [personal](mailto:martinrodriguezsalgueiro@gmail.com)
+- 🧠 Learning about MCPs, agents, and A2A (Agent-to-Agent) communication.
 
+- 🚀 I develop personal projects—many of them related to my work—while continuously improving and expanding my skill set.
 
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"></center><img src="https://github-profile-trophy.vercel.app/?username=VulcanoGal" alt="VulcanoGal" />
-</a>
-</p>
-<p>
-<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VulcanoGal&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="VulcanoGal stats card" /></p>
-<p>&nbsp;--->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VulcanoGal&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="VulcanoGal stats card" /></p>
+- 📫 You can always reach me at my [personal email](mailto:martinrs.dev@gmail.com)
