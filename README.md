@@ -4,8 +4,8 @@
 
 Esta es una breve carta de presentación sobre mi.
 
-- 👩‍💻 Ahora mismo estoy trabajando en Indra para Inditex como Infraestructure Engineer.
-- 🧠 Actualmente intentando aprender plataformas IaC como Ansible y Terraform, al mismo tiempo que mejoro mis conociminentos en Python.
+- 👩‍💻 Actualmente estoy trabajando en la integracion de IA a Chatbots 
+- 🧠 Aprendiendo A2A
 - 📝 Suelo hacer proyectos personales, jugar con mi servidor casero o ponerme a prueba en plataformas online como HackTheBox o TryHackMe.
 - 📫 Siempre puedes contactarme a mi correo [personal](mailto:martinrodriguezsalgueiro@gmail.com)
 
